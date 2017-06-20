@@ -18,6 +18,18 @@ lokke and steven both have root access
 
 steven is paying for the host machine at Hetzner, but the e.V. should someday take over it (when it is registered, and has money, or maybe servers on-site)
 
+Both VPSes have IPv6, and a directly routed IPv4 address.  Reverse DNS for IPv6 and IPv4 are set to match the hostname.
+
+SPF allows "A" and "MX" entries to send mail from @dezentrale.space.  Mailman changes "Sender:" to the mailing list's address, so this passes SPF (but not DKIM).
+
+TODO: emails for root/listmaster/webmaster are not currently going anywhere...
+
+NTP is set up already on the host machine (not needed inside of the VPSes).
+
+Certbot runs every few days via Cron, it should automatically renew the SSL certificates from LetsEncrypt.org
+
+TODO: we redirect from http: to https:, but don't set HSTS headers yet.
+
 /etc is tracked in Git (by etckeeper)
 
 Ikiwiki tracks content in Git (and configuration?)
@@ -44,7 +56,7 @@ https://dezentrale.space/munin/ - operational stats
 
 https://lists.dezentrale.space - mailman web interface
 
-for the mailman "site password", see /root/docs.txt on that VPS
+to get the mailman "site password", please see /root/docs.txt on that VPS
 
 ## [[Girokonto]]
 
