@@ -1,0 +1,51 @@
+# Infrastructure
+
+## Domain name
+
+### dezentrale.space
+
+paid by steven, who will transfer ownership to the e.V. as soon as that is registered (I need the Registernummer first)
+
+it is paid up until 2022-06-11T23:59:59.0Z, as a non-refundable donation
+
+## DNS hosting
+
+(temporarily) served by the domain registrar Gandi.net, but we could set up something better (with DNSSEC)
+
+## VPSes
+
+lokke and steven both have root access
+
+steven is paying for the host machine at Hetzner, but the e.V. should someday take over it (when it is registered, and has money, or maybe servers on-site)
+
+/etc is tracked in Git (by etckeeper)
+
+Ikiwiki tracks content in Git (and configuration?)
+
+TODO: build the main website
+
+TODO: also put the website, mailman configurations into Git repositories
+
+TODO: distribute the Git repositories somewhere (ideally can all be public, because passwords and private keys are excluded)
+
+TODO: back up other data (e.g. list archives) somewhere secure
+
+TODO: document how to rebuild the entire machines from backups
+
+### www.dezentrale.space
+
+https://dezentrale.space - main website
+
+https://dezentrale.space/wiki/ - Ikiwiki, all of Vorstand have admin accounts already
+
+https://dezentrale.space/munin/ - operational stats
+
+### lists.dezentrale.space
+
+https://lists.dezentrale.space - mailman web interface
+
+## [[Girokonto]]
+
+It is likely that at least two of the BGB-Vorstand will have access to Online Banking; and EC-Karte for Barabholung or Auszüge from the Automat.
+
+Anyone can pay in cash at Reisebank (Leipzig HbF), directly into that bank account, but it's important to give a receipt to the Schatzmeister.  To avoid fees, maybe only do this 4 times per year.
