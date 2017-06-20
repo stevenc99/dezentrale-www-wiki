@@ -28,6 +28,11 @@ NTP is set up already on the host machine (not needed inside of the VPSes).
 
 Certbot runs every few days via Cron, it should automatically renew the SSL certificates from LetsEncrypt.org
 
+Qualys SSL Server Test:
+[grade A](https://www.ssllabs.com/ssltest/analyze.html?d=dezentrale.space&hideResults=on&latest) as of 2017-06-20
+
+TODO: (someday) OCSP stapling, if Apache supports it, otherwise consider Nginx for this purpose
+
 TODO: we redirect from http: to https:, but don't set HSTS headers yet.
 
 /etc is tracked in Git (by etckeeper)
