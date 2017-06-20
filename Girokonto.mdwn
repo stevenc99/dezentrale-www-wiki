@@ -10,4 +10,10 @@ Some banks allow a "n.e.V." to get an account:
 
   * Sparkasse Leipzig - possible according to their website, but they told Georg we should wait until we are a registered "e.V."
 
-When we are an "e.V.", many more options will be available to us.
+When we are an "e.V.", many more options will be available to us:
+
+  * GLS-Bank - possible online
+
+  * Skatbank - possible online
+
+  * Sparkasse Leipzig - possible online or in-branch
