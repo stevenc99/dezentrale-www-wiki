@@ -1,0 +1,11 @@
+[[Roadmap]] - registering the e.V., renting rooms
+
+[[Termine]] - z.B. Vorstandssitzung, weekly informal meetings, next Mitgliderversammlung
+
+[[Documents]] - z.B. Satzung, Geschäftsordnung, Gründungsprotokoll
+
+[[Infrastructure]] - z.B. documentation for www. and lists. servers
+
+[[Girokonto]] - research, suggestions, our requirements
+
+[[SandBox]] - to play with [[ikiwiki]]
