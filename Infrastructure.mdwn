@@ -46,15 +46,15 @@ TODO: document how to rebuild the entire machines from backups
 
 ### www.dezentrale.space
 
-https://dezentrale.space - main website
+<https://dezentrale.space> - main website
 
-https://dezentrale.space/wiki/ - Ikiwiki, all of Vorstand have admin accounts already
+<https://dezentrale.space/wiki/> - Ikiwiki, all of Vorstand have admin accounts already
 
-https://dezentrale.space/munin/ - operational stats
+<https://dezentrale.space/munin/> - operational stats
 
 ### lists.dezentrale.space
 
-https://lists.dezentrale.space - mailman web interface
+<https://lists.dezentrale.space> - mailman web interface
 
 to get the mailman "site password", please see /root/docs.txt on that VPS
 
