@@ -44,6 +44,8 @@ https://dezentrale.space/munin/ - operational stats
 
 https://lists.dezentrale.space - mailman web interface
 
+for the mailman "site password", see /root/docs.txt on that VPS
+
 ## [[Girokonto]]
 
 It is likely that at least two of the BGB-Vorstand will have access to Online Banking; and EC-Karte for Barabholung or Auszüge from the Automat.
