@@ -10,4 +10,6 @@
 
 [[Infrastructure]] - z.B. documentation for www. and lists. servers
 
+[[Impressum]]
+
 [[SandBox]] - to play with [[ikiwiki]]
