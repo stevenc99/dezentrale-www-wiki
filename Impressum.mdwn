@@ -1,12 +1,22 @@
-dezentrale e.V.
+# Impressum
 
-Registergericht: Amtsgericht Leipzig
-Registernummer: VR 6458
+## dezentrale e.V.
 
-Vertretung: vorstand@dezentrale.space
+### Anschrift
 
-Anschrift:
-Tapetenwerk Haus K
-Lutzner Str. 91
-04177 Leipzig
-Deutschland
+    Tapetenwerk Haus K
+    Lutzner Str. 91
+    04177 Leipzig
+    Deutschland
+
+### Vertretung
+
+[[vorstand@dezentrale.space]]
+
+### Registergericht
+
+Amtsgericht Leipzig
+
+### Registernummer
+
+VR 6458
