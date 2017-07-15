@@ -6,7 +6,7 @@
 
 [[Termine]] - z.B. Vorstandssitzung, weekly informal meetings, next Mitgliderversammlung
 
-[[Girokonto]] - research, suggestions, our requirements
+[[Girokonto]] - for Mitgliederbeitrag, Spenden
 
 [[Infrastructure]] - z.B. documentation for www. and lists. servers
 
