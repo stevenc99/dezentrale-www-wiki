@@ -18,4 +18,8 @@ Hinterhaus @ Dreilindenstr. 19
 
 [[Impressum]] - Kontaktangaben und Anschrift
 
+----
+
 [[SandBox]] - to play with [[ikiwiki]]
+
+All members of the Vorstand are Wiki admins: log in with your email address.
