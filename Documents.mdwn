@@ -7,3 +7,11 @@
 * [Geschäftsordnung](https://dezentrale.space/docs/geschaeftsordnung-2017-06-21.pdf) (PDF) revision 2017-06-21; [(TeX source)](https://github.com/phantomix-github/dezentrale/blob/master/geschaeftsordnung.tex)
 
 * [Gründungsprotokoll](https://dezentrale.space/docs/gruendungsprotokoll-dezentrale-2017-06-11.pdf) (PDF); [(TeX source)](https://github.com/phantomix-github/dezentrale/blob/master/gruendungsprotokoll.tex)
+
+***
+
+* Protokoll, Vorstandsitzung #003 - [(TeX source)](https://github.com/phantomix-github/dezentrale/blob/master/protocol/vorstandssitzung-2017-07-23.tex)
+
+* Protokoll, Vorstandsitzung #002 - [(TeX source)](https://github.com/phantomix-github/dezentrale/blob/master/protocol/vorstandssitzung-2017-07-02.tex)
+
+* Protokoll, Vorstandsitzung #001 - [(TeX source)](https://github.com/phantomix-github/dezentrale/blob/master/protocol/vorstandssitzung-2017-06-21.tex)
