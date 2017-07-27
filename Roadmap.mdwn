@@ -10,6 +10,24 @@ Finanzamt made a preliminary reading of our draft Satzung and wrote to us that i
 
 We have sent them the final version and wait to hear back from them.
 
-## Finding Vereinsräume
+## [[Girokonto]]
 
-We have a few options for rooms available from 1. August, and will make a decision soon.
+At Sparkasse Leipzig, we need to update the account name from "dezentrale" -> "dezentrale e.V." (need to show them to Vereinsregisterauszug).
+
+Now that we are an e.V., we can consider other banks too (e.g. GLS-Bank, Fidor).
+
+## Vereinsräume
+
+We have a location!  We need to make it ready to receive guests ([[WelcomeParty]])
+
+### Strom
+
+We need to register with the Stadtwerke must agree a tariff with the Holzwerkstatt.
+
+### Internet
+
+Useful thing for a hackerspace.  We could order ADSL/VDSL from Vodafone/Telekom.
+
+steven is also trying to find a temporary solution.
+
+### Door/entry system
