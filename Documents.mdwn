@@ -1,4 +1,4 @@
-* [Mitgliedsantrag](https://www.phantomix.de/dezentrale/mitgliedsantrag-2017-07-02.pdf) (PDF) revision 2017-07-02
+* [Mitgliedsantrag](https://dezentrale.space/docs/mitgliedsantrag-2017-07-02.pdf) (PDF) revision 2017-07-02
 
 ***
 
@@ -6,7 +6,7 @@
 
 * [Geschäftsordnung](https://dezentrale.space/docs/geschaeftsordnung-2017-06-21.pdf) (PDF) revision 2017-06-21; [(TeX source)](https://github.com/phantomix-github/dezentrale/blob/master/geschaeftsordnung.tex)
 
-* [Gründungsprotokoll](https://dezentrale.space/docs/gruendungsprotokoll-dezentrale-2017-06-11.pdf) (PDF); [(TeX source)](https://github.com/phantomix-github/dezentrale/blob/master/gruendungsprotokoll.tex)
+* [Gründungsprotokoll](https://dezentrale.space/docs/gruendungsprotokoll-dezentrale-2017-06-11.pdf) 2017-06-11 (PDF); [(TeX source)](https://github.com/phantomix-github/dezentrale/blob/master/gruendungsprotokoll.tex)
 
 ***
 
