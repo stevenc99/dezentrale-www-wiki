@@ -38,7 +38,7 @@ Qualys SSL Server Test:
 [grade A](https://www.ssllabs.com/ssltest/analyze.html?d=dezentrale.space&hideResults=on&latest) as of 2017-06-20
 [grade A](https://www.ssllabs.com/ssltest/analyze.html?d=lists.dezentrale.space&hideResults=on) as of 2017-06-20
 
-TODO: (someday) OCSP stapling, if Apache supports it, otherwise consider setting up Nginx for that purpose
+TODO: (someday) OCSP stapling, if Apache supports it [supported as of 2.3.3](https://www.digitalocean.com/community/tutorials/how-to-configure-ocsp-stapling-on-apache-and-nginx), otherwise consider setting up Nginx for that purpose 
 
 TODO: we redirect from http: to https:, but don't set any HSTS headers yet.
 
