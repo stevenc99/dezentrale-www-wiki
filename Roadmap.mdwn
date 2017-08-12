@@ -24,7 +24,7 @@ We need to make it ready to receive guests ([[WelcomeParty]])
 
 ### Strom
 
-We need to register with the Stadtwerke, and must agree the tariff with the Holzwerkstatt.
+We need to register with the Stadtwerke must agree a tariff with the Holzwerkstatt.
 
 ### Internet
 
