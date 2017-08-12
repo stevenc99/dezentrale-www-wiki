@@ -10,9 +10,9 @@ all of the Vorstand should be able to access it already.
 
 ## emails
 
-vorstand@dezentrale.space goes to all of the Vorstand
+vorstand@denzetrale.space goes to all of the Vorstand
 
-konto-\*@dezentrale.space goes to all of the Vorstand, where the "\*" can be the name of any company/organisation that the e.V. has an account with
+konto-\*@denzetrale.space goes to all of the Vorstand, where the "\*" can be the name of any company/organisation that the e.V. has an account with
 
 ## DNS hosting
 
