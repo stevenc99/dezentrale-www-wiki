@@ -18,7 +18,7 @@ Hinterhaus @ Dreilindenstraße 19, 04177 Leipzig
 
 [[Infrastructure]] - z.B. documentation for www. and lists. servers
 
-[[Impressum]] - Kontaktangaben und Anschrift
+[[Impressum]] - Anschrift und Kontaktangaben
 
 ----
 
