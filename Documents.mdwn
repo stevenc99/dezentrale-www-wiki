@@ -10,8 +10,8 @@
 
 ***
 
-* Protokoll, Vorstandssitzung #003 - 2017-07-23; [(PDF)](https://dezentrale.space/docs/vorstandssitzung-2017-07-23.pdf), [(TeX source)](https://github.com/phantomix-github/dezentrale/blob/master/protocol/vorstandssitzung-2017-07-23.tex)
+* Protokoll, Vorstandsitzung #003 - 2017-07-23; [(PDF)](https://dezentrale.space/docs/vorstandssitzung-2017-07-23.pdf), [(TeX source)](https://github.com/phantomix-github/dezentrale/blob/master/protocol/vorstandssitzung-2017-07-23.tex)
 
-* Protokoll, Vorstandssitzung #002 - 2017-07-02; [(PDF)](https://dezentrale.space/docs/vorstandssitzung-2017-07-02.pdf), [(TeX source)](https://github.com/phantomix-github/dezentrale/blob/master/protocol/vorstandssitzung-2017-07-02.tex)
+* Protokoll, Vorstandsitzung #002 - 2017-07-02; [(PDF)](https://dezentrale.space/docs/vorstandssitzung-2017-07-02.pdf), [(TeX source)](https://github.com/phantomix-github/dezentrale/blob/master/protocol/vorstandssitzung-2017-07-02.tex)
 
-* Protokoll, Vorstandssitzung #001 - 2017-06-21; [(PDF)](https://dezentrale.space/docs/vorstandssitzung-2017-06-21.pdf), [(TeX source)](https://github.com/phantomix-github/dezentrale/blob/master/protocol/vorstandssitzung-2017-06-21.tex)
+* Protokoll, Vorstandsitzung #001 - 2017-06-21; [(PDF)](https://dezentrale.space/docs/vorstandssitzung-2017-06-21.pdf), [(TeX source)](https://github.com/phantomix-github/dezentrale/blob/master/protocol/vorstandssitzung-2017-06-21.tex)
