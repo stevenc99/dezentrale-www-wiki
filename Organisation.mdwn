@@ -1,1 +1,169 @@
-Test 123
+How To:
+Hier sollen nach Themengebieten geordnet, Weblinks und erste Ideeen und später plap_XXX zu diversen Themen gesamelt und verlinkt werden.
+
+Vorgehen dabei wie folgt:
+Thema zu "XXX" hier erstellen und erste Links sammeln. wenn genug Links usw. zusammen gekommen sind, wird ein eigenes "plap_XXX" aufgemacht und hier bleibt nur noch der link dorthin.
+
+
+Inhalt:
+
+    Allgemein Interessante links
+    Allgemeine wichtige Punkte Themen und FOO
+    Organisatorisches plap
+    Mailadressen und Personen
+    Interessante relatierte Projekte
+    Finanzen
+    Förderung
+    Öffentlichkeitsarbeit
+    Netzwerke
+    Projektideen
+    Veranstaltungen
+    Einrichtung Space
+    Gebäude
+
+
+Allgemein interesante Links:
+    https://anstiftung.de/selbermachen/offene-werkstaetten/praxiswissen
+
+Allgemeine wichtige Punkte Themen und FOO:
+ * Thermische isolierung
+
+    Unter dem Lager der Küche ist ein Fahradraum dieser ist nach außen Offen
+
+    Ist die Tür am Lager dicht?
+
+    ist das Dach dicht hinsichtlich Zugluft
+
+    Messtechnik Installieren --> Es gibt so kleine Module welche zwischen RJ-45 Kabel geklemmt werden
+
+    Kabelverlegen allgemein
+
+
+Organisatorisches:
+
+    Timeline:
+
+    FOOBAA
+
+
+    Sonntagstreffen (plap_XX):
+
+
+    https://pad.riseup.net/p/blab13 
+
+    https://pad.riseup.net/p/blab14 gelöscht
+
+    https://pad.riseup.net/p/blab15 gelöscht
+
+    https://pad.riseup.net/p/plap16
+
+    https://pad.riseup.net/p/plap17
+
+    https://pad.riseup.net/p/plap18
+
+    https://pad.riseup.net/p/plap18_etc
+
+    https://pad.riseup.net/p/plap19
+
+    https://pad.riseup.net/p/plap20
+
+    https://pad.riseup.net/p/plap21
+
+    https://pad.riseup.net/p/plap22
+
+    https://pad.riseup.net/p/plap23
+
+    https://pad.riseup.net/p/plap24
+
+    https://pad.riseup.net/p/plap25
+
+
+
+    Mailadressen und Personen: 
+
+
+    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+Hier nicht direckt Mailadressen oder Namen veröffentlichen, Ziel ist aber eine Übersicht und Personen mit Expertise zu listen. Wo kann man das machen so das die namen unter uns bleiben?
+
+
+    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+    Jura Gesetze und so Foo
+
+    Soziales/ Gruppenprozesse
+
+    Wer hat eine Mailadresse von der jungen Frau welche mal die Moderation eines unserer Ersten treffen übernommen hatte?
+
+    Handwerk
+
+
+Interessante relatierte Projekte:
+
+    https://konvergenzfehler.de/tag/hackerspace/
+
+
+Finanzen:
+
+    Wissens und Linksamlung zu Finazen und rechtlichen Vorraussetzungen für Vereinstätigkeit.
+
+    https://pad.riseup.net/p/plap_finazrecht
+
+
+
+Öffentlichkeitsarbeit:
+
+    Alles was mit Außenkommunikation für veranstaltungen Werbung und Mitgliederaquise zu tun hat
+
+    https://pad.riseup.net/p/plap_pr
+
+
+Netzwerke:
+    Alles was Netzwerke und Synergieen betrifft
+
+    http://www.offene-werkstaetten.org/
+
+    Bieten auch eine haftpflichtversicherung an
+
+
+    Spiellabor
+
+    https://www.meetup.com/de-DE/sublab/events/vfwfvlywlbjc/
+
+    http://villa-leipzig.de/veranstaltung/regelmaessig/Spiellabor/
+
+
+Förderung:
+
+    Alles was mit Wissen und Organisation von Förderung zu tun hat.
+
+    https://pad.riseup.net/p/plap_foerderung
+
+
+Mögliche Projektideen:
+
+    Hier sollen Ideen gesammelt und formuliert werden welche umgesetzt, gemeinnützig sind und auch als konkrete Projekte, Zuwendungen einwerben können. Ausrichtung der Projekte soll derart sein das diese die kriterien zur förderung durch Staatliche Stellen erfüllen.
+
+    https://pad.riseup.net/p/plap_projektideen
+
+
+
+Veranstaltungen:
+        Treffen Vernetzung für Hakerspaces September? --> gab da mal eine Mail (2017-06-20 22:33)
+        Was:  Hackerspace Convention
+        Wo:   Stuttgart 
+        Wann: 6./17. September 2017.
+        Link: https://wiki.shackspace.de/event/lhc-vi/start
+
+
+        Makerfaires
+        Was:  Makerfaire Hanover
+        Wo:   Hanover
+        Wann: 25. – 27. August
+        Link: https://www.heise.de/make/meldung/Die-Maker-Faire-Hannover-begeisterte-ueber-16-000-Technik-Fans-3222281.html
+
+
+Einrichtung Space:
+    https://pad.riseup.net/p/plap_einrichtung_space
