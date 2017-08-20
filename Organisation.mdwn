@@ -126,18 +126,18 @@ Hier sollen Ideen gesammelt und formuliert werden welche umgesetzt, gemeinnützi
 
 
 ### Veranstaltungen:
-        Treffen Vernetzung für Hakerspaces September? --> gab da mal eine Mail (2017-06-20 22:33)
-        Was:  Hackerspace Convention
-        Wo:   Stuttgart 
-        Wann: 6./17. September 2017.
-        Link: <https://wiki.shackspace.de/event/lhc-vi/start>
 
+#### Treffen Vernetzung für Hakerspaces September? --> gab da mal eine Mail (2017-06-20 22:33)
+* Was:  Hackerspace Convention
+* Wo:   Stuttgart 
+* Wann: 6./17. September 2017.
+* Link: <https://wiki.shackspace.de/event/lhc-vi/start>
 
-        Makerfaires
-        Was:  Makerfaire Hanover
-        Wo:   Hanover
-        Wann: 25. – 27. August
-        Link: <https://www.heise.de/make/meldung/Die-Maker-Faire-Hannover-begeisterte-ueber-16-000-Technik-Fans-3222281.html>
+#### Makerfaires
+* Was:  Makerfaire Hanover
+* Wo:   Hanover
+* Wann: 25. – 27. August
+* Link: <https://www.heise.de/make/meldung/Die-Maker-Faire-Hannover-begeisterte-ueber-16-000-Technik-Fans-3222281.html>
 
 
 ### Einrichtung Space:
